@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header .navbar{
+    color:darkblue ;
+
+}
+.myimg{
+    width: 200px;
+    height: 300px;
+    object-fit: fill;
+    border-radius: 50%;
+}
